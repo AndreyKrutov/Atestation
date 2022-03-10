@@ -1,0 +1,10 @@
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\bin\Debug\netstandard2.0\SchoolSchedule.deps.json
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\bin\Debug\netstandard2.0\SchoolSchedule.dll
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\bin\Debug\netstandard2.0\SchoolSchedule.pdb
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.csproj.AssemblyReference.cache
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.AssemblyInfoInputs.cache
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.AssemblyInfo.cs
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.csproj.CoreCompileInputs.cache
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.dll
+D:\VMBOX\USER_FILE\ET_Krutov\SchoolSchedule\obj\Debug\netstandard2.0\SchoolSchedule.pdb

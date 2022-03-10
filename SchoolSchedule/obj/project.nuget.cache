@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOAQ2iPJMRndu3iqyKs/GBXSuZxIsB4sEZn5q4QkzEOyoc8AyJp10e2775lG9jeQZk3kHc8mqNfyToMnk1YrXA==",
+  "success": true,
+  "projectFilePath": "D:\\VMBOX\\USER_FILE\\ET_Krutov\\SchoolSchedule\\SchoolSchedule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student_22_12\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student_22_12\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
